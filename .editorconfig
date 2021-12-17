@@ -1,0 +1,9 @@
+﻿namespace SmallApi
+{
+    public class _
+    {
+    }
+}
+
+[*.cs]
+csharp_style_namespace_declarations=file_scoped:silent
